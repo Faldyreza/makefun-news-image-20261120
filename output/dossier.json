@@ -1,0 +1,43 @@
+{
+  "bounty": "news-image-20261120",
+  "title": "RED FRIDAY",
+  "date": "FRIDAY, 20 NOVEMBER 2026",
+  "image": "entry.png",
+  "width": 1024,
+  "height": 1024,
+  "entry_png_sha256": "09895724be1ef505334ae41c7cfa05b6a951b51103306a419b4fd38dec70af4a",
+  "entry_png_bytes": 26561,
+  "stories": [
+    {
+      "slot": "lead",
+      "headline": "THE AI SELL-OFF GOES GLOBAL",
+      "facts": "Nikkei -4.8% to 56,594.94 (seven-month low); Kospi -5.2%; Taiwan Taiex -6% (worst week since 1991, -16%); Hang Seng near bear market; SoftBank -14.6%, Kioxia -11.3%, Advantest -10.6%; Nasdaq -2.3% (23,879.20), S&P 500 -2% (7,176), fifth straight day of losses; Anthropic record $81.3bn IPO opened $111.50 vs $83 offer, closed +17% at $97.17."
+    },
+    {
+      "slot": "secondary-left",
+      "headline": "MISSILE HITS RIYADH'S TALLEST TOWER",
+      "facts": "Houthi missile damaged the PIF Tower, Riyadh's tallest skyscraper, 80 floors, HQ of the Saudi sovereign wealth fund. Windows blown out across 7-8 floors, metal facade bent, no injuries; King Abdullah Financial District evacuated. Strike Thursday evening; second such hit on the district in under two weeks (after the Aramco building on 8 Nov)."
+    },
+    {
+      "slot": "secondary-right",
+      "headline": "COP31 DROPS FOSSIL-FUEL PHASE-OUT",
+      "facts": "COP31 in Antalya, Turkey: the draft deal drops any call to phase out fossil fuels."
+    },
+    {
+      "slot": "third-left",
+      "headline": "GAZA: TROOPS CROSS YELLOW LINE",
+      "facts": "Israeli forces cross the Yellow Line in central Gaza, first incursion across the ceasefire boundary since the truce."
+    },
+    {
+      "slot": "third-right",
+      "headline": "KENYA: LAST EBOLA PATIENT GOES HOME",
+      "facts": "Last Ebola patient discharged, 37 days after the first case."
+    },
+    {
+      "slot": "footer-ticker",
+      "headline": "UK pledges 1,000+ drones for Ukraine in a 260m-pound package; California subpoenas Nvidia over China chips; Bukele registers for a third term in El Salvador; Trump posthumously pardons baseball legend Pete Rose; Brent crude $92.77.",
+      "facts": "Ticker items shortened only by dropping filler words on the image; full wording kept here."
+    }
+  ],
+  "notes": "All facts verified live for the 20 November 2026 news cycle (see DESIGN.md). Image drawn entirely in code: embedded 5x7 bitmap letterforms, no fonts, no network, no external files. Deterministic: fixed date string, no clock, no randomness; repeated runs write identical bytes."
+}
